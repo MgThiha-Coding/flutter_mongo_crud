@@ -75,7 +75,6 @@ class _DisplayState extends State<Display> {
               children: [
                 MaterialButton(
                   onPressed: () {
-              
                     Navigator.push(
                         context,
                         MaterialPageRoute(
